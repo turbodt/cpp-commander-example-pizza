@@ -1,7 +1,7 @@
 #ifndef H_INCLUDE_CLI_TOPPINGS_OPTION
 #define H_INCLUDE_CLI_TOPPINGS_OPTION
 
-#include "command.hpp"
+#include "cpp-commander.h"
 
 /**
  * Advanced usage: override an option

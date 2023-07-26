@@ -12,7 +12,7 @@ include(FetchContent)
 
 FetchContent_Declare(commander
   GIT_REPOSITORY https://github.com/turbodt/cpp-commander.git
-  GIT_TAG develop
+  GIT_TAG main
 )
 FetchContent_MakeAvailable(commander)
 

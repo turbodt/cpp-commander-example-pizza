@@ -1,7 +1,7 @@
 #ifndef H_INCLUDE_CLI_BASE_COMMAND
 #define H_INCLUDE_CLI_BASE_COMMAND
 
-#include "command.hpp"
+#include "cpp-commander.h"
 
 class BaseCommand : public Commander::Command {
 public:
